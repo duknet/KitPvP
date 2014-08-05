@@ -1,10 +1,6 @@
 name: KitPvP
-version: 0.1 - SNAPSHOT
 main: io.github.aphex124.Main_KitPvP
-description: A full KitPvP Plugin!
-commands:
-   basic:
-      description: This is a demo command.
-      usage: /<command> [player]
-      permission: <plugin name>.basic
-      permission-message: You don't have <permission>
+version: 1.0.1-SNAPSHOT
+description: A plugin that allows server owners to have the popular Minecraft server minigame, Kit PvP, on their server.
+author: Aphex124
+website: https://www.apwolfpack.com/
